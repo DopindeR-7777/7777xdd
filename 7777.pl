@@ -40,7 +40,7 @@ print BOLD RED<<EOTEXT;
 EOTEXT
 
 print "MemeCFW and The Bat Dropped Yo Shit $ip " . ($port ? $port : "Sucking The Clit") . " With " . 
-  ($size ? "$size-Slammed" : "9999999") . "Bots" . 
+  ($size ? "$size-Slammed" : "sikeratarmapusyatar") . "Bots" . 
   ($time ? " for $time seconds" : "") . "\n";
 print "Stop NULLING With Ctrl-C\n" unless $time;
  
