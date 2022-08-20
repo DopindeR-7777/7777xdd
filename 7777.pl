@@ -34,7 +34,7 @@ print BOLD RED<<EOTEXT;
                                 DopindeR                             
                                  Yahuda                         
                                   7777                                  
-                                   77                                                                
+                                   77                                                                    
                                    
                               
 EOTEXT
