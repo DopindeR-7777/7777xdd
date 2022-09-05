@@ -4,7 +4,7 @@ use Term::ANSIColor qw(:constants);
     $Term::ANSIColor::AUTORESET = 2;
 
 ##
-# VapeDaddy 
+# DopindeR 
 ##
 
 use Socket;
